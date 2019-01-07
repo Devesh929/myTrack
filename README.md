@@ -1,2 +1,1 @@
-# NHacks_SYDE
-Our first hackathon project
+myTrack will play the tracks on the  image you upload.
